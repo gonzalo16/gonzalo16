@@ -1,4 +1,4 @@
-<img align="center" alt="Coding image" src="https://img.freepik.com/free-vector/human-evolution-monkey-modern-man-programmer-computer-user-isolated-white_33099-1593.jpg?w=1380&t=st=1682724448~exp=1682725048~hmac=3c3fdec2186d0ea2c2d7ea97deab65e6de54fb3e66f535055d8a856443098e6e">
+<img align="center" alt="Coding image" src="https://img.freepik.com/free-vector/teenager-drinks-coffee-bedroom-with-workspace-hacker-night_107791-5413.jpg?w=1380&t=st=1682724882~exp=1682725482~hmac=7bcd5027386e4e95bdf88f8ee6291d496ced32f9597a4f8b73e2a1c23777c6f0">
 
 
 <h1 align="center">Hola 👋, mi nombre es Gonzalo</h1>
@@ -12,6 +12,8 @@
 - 💬 Pregúntame sobre: **Java, Mysql and Spring boot MVC**
 
 - 📫 Me puedes contactar por mi correo: **marinucci.gonzalo@gmail.com**
+
+<hr>
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
