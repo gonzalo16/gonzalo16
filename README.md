@@ -1,7 +1,9 @@
+<img align="center" alt="Coding image" src="https://img.freepik.com/free-vector/human-evolution-monkey-modern-man-programmer-computer-user-isolated-white_33099-1593.jpg?w=1380&t=st=1682724448~exp=1682725048~hmac=3c3fdec2186d0ea2c2d7ea97deab65e6de54fb3e66f535055d8a856443098e6e">
+
+
 <h1 align="center">Hola 👋, mi nombre es Gonzalo</h1>
 <h3 align="center">Programador mayormente back-end y aprendiendo front-end</h3>
 
-<img align="center" alt="Coding image" width="550" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tuiyjqbn2pm54k7hf8vles01kxd4v0eg3n15snfy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 Estoy actualmente aprediendo  **Spring boot, Angular**
 
