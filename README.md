@@ -7,7 +7,7 @@
 
 - 🌱 Estoy actualmente aprediendo  **Spring boot, Angular**
 
-- 📝 Puedes ver mi portafolio [ifragodevs.es](ifragodevs.es)
+- 📝 Puedes ver mi portafolio [ifragodevs.es](https://ifragodevs.es/)
 
 - 💬 Pregúntame sobre: **Java, Mysql and Spring boot MVC**
 
