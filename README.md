@@ -21,7 +21,7 @@
 </div>
 
 <hr>
-<img src="https://github.com/gonzalo16/gonzalo16/blob/main/Habilidades.png" height="300" width="300"></img>
+
 
 
 <h3 align="left">Lenguajs y herramientas que utilizo:</h3>
