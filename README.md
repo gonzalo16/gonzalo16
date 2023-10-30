@@ -21,7 +21,7 @@
 </div>
 
 <hr>
-<img src="https://github.com/gonzalo16/gonzalo16/blob/main/Habilidades-PhotoRoom.png-PhotoRoom.png"></img>
+<img src="https://github.com/gonzalo16/gonzalo16/blob/main/Habilidades-PhotoRoom.png-PhotoRoom.png" width="900" height="430"></img>
 
 
 
