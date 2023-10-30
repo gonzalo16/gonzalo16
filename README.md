@@ -21,8 +21,6 @@
 </div>
 
 <hr>
-<h3 align="left">Lenguajes</h3>
-<img src="https://github.com/gonzalo16/gonzalo16/blob/main/Habilidades.png" width="900" height="400"></img>
 
 
 <h3 align="left">Herramientas que utilizo:</h3>
