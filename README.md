@@ -21,6 +21,7 @@
 </div>
 
 <hr>
+<img src="https://github.com/gonzalo16/gonzalo16/blob/main/Habilidades.png"></img>
 
 
 
