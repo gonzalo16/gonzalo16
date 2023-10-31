@@ -1,4 +1,4 @@
-<img align="center" alt="Coding image" src="https://img.freepik.com/free-vector/teenager-drinks-coffee-bedroom-with-workspace-hacker-night_107791-5413.jpg?w=1380&t=st=1682724882~exp=1682725482~hmac=7bcd5027386e4e95bdf88f8ee6291d496ced32f9597a4f8b73e2a1c23777c6f0">
+<img align="center" alt="Coding image" src="https://github.com/gonzalo16/gonzalo16/blob/main/Banner.png">
 
 
 <h1 align="center">Hola 👋, mi nombre es Gonzalo</h1>
